@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace All_M6_L3_1
+namespace App_M6_L3_1
 {
     class Program
     {
